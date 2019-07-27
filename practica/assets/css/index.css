@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body #content .jumbotron {
+  background-color: white !important;
+}
+
+body #content img {
+  width: 90%;
+  height: 10em;
+  object-fit: cover;
+}
+
+body #content p {
+  height: 3em;
+}
+
+body #content .nav-item.active {
+  color: #000000 !important;
+}
+
+body #content .nav-item {
+  color: #2f8570 !important;
+}
+
+body .navbar {
+  background-color: whitesmoke !important;
+}
+
+body .navbar .navbar-logo {
+  width: 3.5em;
+  height: 3em;
+}
